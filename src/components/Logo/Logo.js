@@ -3,7 +3,7 @@ import FliprLogo from '../../assets/svgs/logo.svg';
 
 const logo = (props) => {
     return <span>
-        <img src={FliprLogo} />
+        <img alt="logo" src={FliprLogo} />
     </span>
 }
 

@@ -9,7 +9,8 @@ import axios from '../../axios-auth';
 
 const styles = theme => ({
     root: {
-        marginTop: '2rem'
+        marginTop: '2rem',
+        padding: '2rem'
     },
     appBar: {
         backgroundColor: 'white',

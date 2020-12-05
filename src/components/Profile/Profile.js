@@ -5,7 +5,7 @@ import ProfileIcon from '../../assets/svgs/profile.svg';
 
 const Profile = (props) => {
     return <span className={classes.Profile}>
-        <img className={classes.ProfileIcon} src={ProfileIcon} />
+        <img alt="profile" className={classes.ProfileIcon} src={ProfileIcon} />
     </span>
 }
 
