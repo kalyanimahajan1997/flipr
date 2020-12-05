@@ -1,0 +1,9 @@
+.Profile{
+    max-height: 25px;
+    border-radius: 50%;
+    background-color: 'red';
+}
+
+.ProfileIcon{
+    max-height: 1.5rem;
+}
