@@ -1,9 +1,10 @@
 import React from 'react';
 
 const Timeline = (props) => {
+    console.log(props.selectedData);
     return (
         <React.Fragment>
-            timeline
+            <div>asdf</div>
         </React.Fragment>
     );
 };
